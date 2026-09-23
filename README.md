@@ -1,633 +1,545 @@
-<div align="center">
+# DevMind
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,75:1e3a8a,100:06b6d4&text=RACHITH%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20DATA%20SCIENCE%20%2F%20BACKEND&descAlignY=58&descSize=18&descColor=67e8f9"/>
+### AI-Powered Developer Intelligence & Productivity Platform
 
-<br>
+DevMind is a developer productivity platform that connects with GitHub, analyzes development activity, generates personalized developer insights, tracks growth, and provides AI-assisted guidance through a centralized dashboard.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=INITIALIZING+DEVELOPER+PROFILE...;AI+%2B+BACKEND+%2B+DATA;BUILDING+INTELLIGENT+SYSTEMS;TURNING+IDEAS+INTO+REAL+SOFTWARE;SYSTEM+STATUS%3A+ONLINE"/>
+The project is designed around a simple idea:
 
-<br><br>
-
-<a href="https://github.com/rachi2006">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rachirachith8@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+> **Turn development activity into actionable insights for continuous improvement.**
 
 ---
 
-# `01 // SYSTEM OVERVIEW`
+## Overview
 
-<table>
-<tr>
-<td width="65%" valign="top">
+Developers generate a large amount of activity through repositories, commits, programming languages, and projects, but this information is often scattered across different platforms.
 
-## 👨‍💻 Developer Intelligence
+DevMind brings relevant development data into one place and transforms it into a developer-focused dashboard.
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                 DEVELOPER PROFILE                   │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  NAME       : Rachith Kumar                         │
-│  ROLE       : AI & Data Science Student             │
-│  DOMAIN     : Software Engineering                 │
-│  SPECIALITY : Backend + AI + Data                   │
-│                                                     │
-│  STATUS     : ● ONLINE                              │
-│  MODE       : BUILDING                              │
-│  LOCATION   : INDIA                                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+The platform combines:
 
-I'm a **B.Tech Computer Science student specializing in Artificial Intelligence & Data Science**, focused on building practical software systems and exploring AI-powered applications.
+* GitHub activity
+* Developer analytics
+* Personalized insights
+* Growth roadmaps
+* AI-assisted coaching
+* Developer profile information
 
-My current direction:
-
-`AI Systems` → `Backend Engineering` → `Data` → `Developer Tools`
-
-> **Build systems that solve problems, not projects that only look good.**
-
-</td>
-
-<td width="35%" valign="top">
-
-## `SYSTEM STATUS`
-
-```text
-[████████████████] 100%
-
-CORE SYSTEM
-     ONLINE
-
-PYTHON
-     ACTIVE
-
-BACKEND
-     ACTIVE
-
-AI / LLM
-     BUILDING
-
-DATA
-     BUILDING
-
-DSA
-     LEARNING
-```
-
-### Current Mode
-
-```text
-⚡ BUILD
-🧠 LEARN
-🧪 EXPERIMENT
-🚀 SHIP
-```
-
-</td>
-</tr>
-</table>
+into a single application.
 
 ---
 
-# `02 // DEVELOPER INTELLIGENCE`
+## Key Features
 
-<div align="center">
+### GitHub Integration
 
-<table>
-<tr>
-<td align="center">
+Connect a GitHub username and retrieve developer information such as:
 
-### 🧠 AI
-
-`LLM APIs`
-`AI Agents`
-`Automation`
-
-</td>
-
-<td align="center">
-
-### ⚙️ BACKEND
-
-`Python`
-`Flask`
-`Django`
-
-</td>
-
-<td align="center">
-
-### 📊 DATA
-
-`NumPy`
-`Pandas`
-`MongoDB`
-
-</td>
-
-<td align="center">
-
-### 🚀 ENGINEERING
-
-`Git`
-`REST APIs`
-`Deployment`
-
-</td>
-</tr>
-</table>
-
-</div>
+* Profile information
+* Avatar
+* Public repositories
+* Programming languages
+* Development activity
 
 ---
 
-# `03 // SKILL MATRIX`
+### Developer Analytics
 
-<div align="center">
+Analyze available development activity and present it through a centralized dashboard.
 
-| DOMAIN          | TECHNOLOGY   |    LEVEL   |  STATUS  |
-| :-------------- | :----------- | :--------: | :------: |
-| Programming     | Python       | ████████░░ |  ACTIVE  |
-| Programming     | Java         | ██████░░░░ | LEARNING |
-| Frontend        | HTML / CSS   | ████████░░ |  ACTIVE  |
-| Frontend        | JavaScript   | ██████░░░░ | BUILDING |
-| Backend         | Flask        | ████████░░ |  ACTIVE  |
-| Backend         | Django       | ██████░░░░ | BUILDING |
-| Database        | MongoDB      | ███████░░░ |  ACTIVE  |
-| Database        | MySQL        | ██████░░░░ | LEARNING |
-| Data            | NumPy        | ███████░░░ |  ACTIVE  |
-| Data            | Pandas       | ███████░░░ |  ACTIVE  |
-| AI              | LLM APIs     | ███████░░░ | BUILDING |
-| Engineering     | Git / GitHub | ████████░░ |  ACTIVE  |
-| Problem Solving | DSA          | █████░░░░░ | LEARNING |
-
-</div>
+The analytics layer is designed to help developers understand patterns in their development activity rather than simply displaying raw GitHub data.
 
 ---
 
-# `04 // TECHNOLOGY STACK`
+### Developer Insights
 
-<div align="center">
+DevMind generates personalized insights from available developer activity.
 
-### PROGRAMMING
+Examples include observations related to:
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-
-<br><br>
-
-### BACKEND / DATABASE
-
-<img src="https://skillicons.dev/icons?i=flask,django,mongodb,mysql"/>
-
-<br><br>
-
-### DATA / AI
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<br><br>
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
+* Development consistency
+* Repository activity
+* Technology usage
+* Programming focus
+* Areas for improvement
 
 ---
 
-# `05 // PROJECT INTELLIGENCE`
+### Growth Roadmap
 
-## 🚀 Featured Systems
+The platform provides a development roadmap based on the user's current developer profile and activity.
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `AI-001`
-
-# 🤖 NOVA
-
-**AI PERSONAL AGENT**
+The goal is to transform analytics into actionable next steps.
 
 ```text
-TYPE       : AI APPLICATION
-STATUS     : BUILDING
-CORE       : PYTHON
-INTELLIGENCE: LLM
+Developer Activity
+        ↓
+     Analysis
+        ↓
+    Developer
+     Insights
+        ↓
+   Growth Areas
+        ↓
+   Development
+     Roadmap
 ```
-
-NOVA is my personal AI assistant project focused on intelligent interaction, automation and productivity.
-
-**Architecture Direction**
-
-```text
-USER
- ↓
-INTERFACE
- ↓
-AI ENGINE
- ↓
-MEMORY
- ↓
-TOOLS
- ↓
-ACTION
-```
-
-**Capabilities**
-
-* 🧠 AI conversations
-* 🎙️ Voice interaction
-* 🔊 Text-to-Speech
-* 🗃️ Memory
-* 🔍 Web intelligence
-* 📅 Productivity tools
-
-<a href="https://github.com/rachi2006/nova-ai_agent">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `DEV-002`
-
-# 🧠 DevMind
-
-**DEVELOPER INTELLIGENCE PLATFORM**
-
-```text
-TYPE       : DEVELOPER TOOL
-STATUS     : BUILDING
-CORE       : WEB + PYTHON
-FOCUS      : DEVELOPER ANALYTICS
-```
-
-DevMind is designed as a developer intelligence dashboard that transforms development activity into useful insights.
-
-**Dashboard Architecture**
-
-```text
-CODING DATA
-     ↓
-PROCESSING
-     ↓
-ANALYTICS
-     ↓
-INSIGHTS
-     ↓
-DEVELOPER DASHBOARD
-```
-
-**Modules**
-
-* 📊 Coding Overview
-* 🧠 Developer Insights
-* 📈 Progress Analytics
-* 👤 Developer Profile
-* ⚡ Dashboard UI
-
-<a href="https://github.com/rachi2006">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `WEB-003`
-
-# 🎯 Learn Skills
-
-**LEARNING MANAGEMENT PLATFORM**
-
-```text
-TYPE       : FULL STACK
-STATUS     : COMPLETED / IMPROVING
-BACKEND    : FLASK
-DATABASE   : MONGODB
-```
-
-A platform for generating learning roadmaps and tracking learning progress.
-
-**Features**
-
-* 🔐 Authentication
-* 🗺️ Roadmap generation
-* 📚 Topic tracking
-* 📊 Progress dashboard
-* 👤 User profiles
-* 🗄️ MongoDB integration
-
-</td>
-
-<td width="50%" valign="top">
-
-### `LAB-004`
-
-# 🔬 Future Systems
-
-```text
-AI AGENTS
-───────────────
-AUTOMATION
-───────────────
-DATA APPLICATIONS
-───────────────
-BACKEND SERVICES
-───────────────
-DEVELOPER TOOLS
-───────────────
-MACHINE LEARNING
-```
-
-> More systems are currently being designed, tested and built.
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# `06 // ARCHITECTURE MINDSET`
+### AI Coach
 
-<div align="center">
+DevMind includes an AI-assisted coaching layer that can provide development guidance based on the available developer context.
+
+The AI Coach is intended to help with:
+
+* Learning direction
+* Development improvement
+* Project suggestions
+* Skill development
+* Personalized guidance
+
+The AI integration is implemented through an external AI API.
+
+---
+
+### Developer Dashboard
+
+The dashboard brings the major parts of the platform together into a single interface.
+
+It includes:
+
+* Developer profile
+* GitHub information
+* Analytics
+* Developer insights
+* Growth roadmap
+* AI Coach
+* Activity information
+
+---
+
+### Authentication
+
+DevMind includes user authentication and account-related functionality.
+
+The application uses secure password hashing rather than storing raw passwords.
+
+---
+
+## Technology Stack
+
+### Backend
+
+* Python
+* Flask
+* REST-style route architecture
+* MongoDB
+* External APIs
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Jinja Templates
+
+### AI
+
+* AI API integration
+* OpenAI-compatible client architecture
+* NVIDIA-hosted AI endpoint
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* MongoDB Compass
+
+---
+
+# Architecture
+
+DevMind follows a modular Flask architecture rather than placing the entire application inside a single file.
 
 ```text
-                    ┌──────────────┐
-                    │     IDEA     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                 ┌──────────────────┐
-                 │     RESEARCH     │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     DESIGN       │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │      BUILD       │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │      TEST        │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │      SHIP        │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     IMPROVE      │
-                 └──────────────────┘
+                    ┌─────────────────────┐
+                    │      Web Client     │
+                    │   HTML / CSS / JS   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       Flask         │
+                    │    Application      │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+        ┌───────────┐   ┌─────────────┐  ┌─────────────┐
+        │   Auth    │   │  Dashboard  │  │   GitHub    │
+        │   Routes  │   │   Routes    │  │   Routes    │
+        └───────────┘   └─────────────┘  └──────┬──────┘
+                                                 │
+                                                 ▼
+                                        ┌────────────────┐
+                                        │   GitHub API   │
+                                        └────────────────┘
+
+                    ┌────────────────────────────────────┐
+                    │             Services               │
+                    ├────────────────────────────────────┤
+                    │ Activity Service                   │
+                    │ Analytics Service                  │
+                    │ Insight Service                    │
+                    │ Roadmap Service                    │
+                    │ AI Coach Service                   │
+                    └────────────────┬───────────────────┘
+                                     │
+                    ┌────────────────┴───────────────────┐
+                    ▼                                    ▼
+             ┌──────────────┐                    ┌──────────────┐
+             │   MongoDB    │                    │   AI API     │
+             │   Database   │                    │   Provider   │
+             └──────────────┘                    └──────────────┘
 ```
 
-</div>
+---
+
+# Project Structure
+
+```text
+devmind/
+│
+├── app.py
+├── config.py
+│
+├── database/
+│   └── mongodb.py
+│
+├── models/
+│   └── users.py
+│
+├── routes/
+│   ├── auth.py
+│   ├── dashboard.py
+│   └── github.py
+│
+├── services/
+│   ├── activity_service.py
+│   ├── ai_coach_service.py
+│   ├── analytics_service.py
+│   ├── insight_service.py
+│   └── roadmap_service.py
+│
+├── templates/
+│   └── dashboard.html
+│
+├── static/
+│   ├── css/
+│   └── js/
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+The exact structure may evolve as the project develops.
 
 ---
 
-# `07 // GITHUB ANALYTICS`
+# Core Data Flow
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rachi2006&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachi2006&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachi2006&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" width="45%"/>
-
-</div>
+```text
+User
+ │
+ ▼
+Authentication
+ │
+ ▼
+GitHub Username
+ │
+ ▼
+GitHub API
+ │
+ ▼
+Developer Activity
+ │
+ ├───────────────┐
+ ▼               ▼
+Analytics      Activity
+ │               │
+ └───────┬───────┘
+         ▼
+ Developer Insights
+         │
+         ▼
+ Growth Roadmap
+         │
+         ▼
+      AI Coach
+         │
+         ▼
+ Personalized Guidance
+```
 
 ---
 
-# `08 // ACTIVITY MONITOR`
+# Installation
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachi2006&bg_color=020617&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `09 // TERMINAL`
+## 1. Clone the repository
 
 ```bash
-┌──(rachith㉿developer)-[~/projects]
-└─$ whoami
+git clone https://github.com/rachi2006/devmind.git
+```
 
-AI & Data Science Student
-Backend Developer
-AI Builder
-
-
-┌──(rachith㉿developer)-[~/projects]
-└─$ ls
-
-nova-ai-agent/
-devmind/
-learn-skills/
-data-projects/
-future-systems/
-
-
-┌──(rachith㉿developer)-[~/projects]
-└─$ systemctl status ambition
-
-● ambition.service
-   Loaded: active
-   Status: RUNNING
-   Restart: always
-
-
-┌──(rachith㉿developer)-[~/projects]
-└─$ echo $MISSION
-
-"Become industry ready by building real systems."
+```bash
+cd devmind
 ```
 
 ---
 
-# `10 // CURRENT OPERATIONS`
+## 2. Create a virtual environment
 
-<table>
-<tr>
-<td width="50%">
+### Windows
 
-### 🟢 ACTIVE
+```bash
+python -m venv venv
+```
+
+Activate it:
+
+```bash
+venv\Scripts\activate
+```
+
+### macOS / Linux
+
+```bash
+python3 -m venv venv
+```
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+## 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# Environment Variables
+
+Create a `.env` file in the project root.
+
+```env
+SECRET_KEY=your_secret_key
+
+MONGODB_URI=your_mongodb_connection_string
+
+AI_API_KEY=your_ai_api_key
+
+AI_BASE_URL=your_ai_provider_base_url
+```
+
+Do **not** commit your `.env` file.
+
+Make sure it is included in `.gitignore`:
+
+```gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+```
+
+---
+
+# Running the Application
+
+Start the Flask application:
+
+```bash
+python app.py
+```
+
+Then open:
 
 ```text
-[ACTIVE] Python
-[ACTIVE] Backend Development
-[ACTIVE] Flask
-[ACTIVE] MongoDB
-[ACTIVE] AI Applications
-[ACTIVE] Git / GitHub
+http://127.0.0.1:5000
 ```
 
-</td>
+---
 
-<td width="50%">
+# Screenshots
 
-### 🟡 IN PROGRESS
+Add screenshots of the actual application here.
+
+Recommended screenshots:
+
+### Dashboard
 
 ```text
-[BUILDING] AI Agents
-[BUILDING] Advanced Backend
-[BUILDING] Data Science
-[LEARNING] DSA
-[LEARNING] Machine Learning
+docs/screenshots/dashboard.png
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-# `11 // ROADMAP`
+### GitHub Integration
 
 ```text
-2026
- │
- ├── ████████████████  Python
- │
- ├── ██████████████░░  Flask / Backend
- │
- ├── ████████████░░░░  MongoDB
- │
- ├── ███████████░░░░░  Data Science
- │
- ├── █████████░░░░░░░  DSA
- │
- ├── █████████░░░░░░░  AI Agents
- │
- └── ███████░░░░░░░░░  Machine Learning
+docs/screenshots/github-profile.png
 ```
 
----
-
-# `12 // 2026 OBJECTIVES`
-
-<div align="center">
-
-| OBJECTIVE                              | STATUS |
-| :------------------------------------- | :----: |
-| Build production-level AI applications |   🔄   |
-| Strengthen DSA                         |   🔄   |
-| Improve backend architecture           |   🔄   |
-| Build advanced AI agents               |   🔄   |
-| Deploy real-world applications         |   🔄   |
-| Contribute to open source              |    ⏳   |
-| Build professional portfolio           |   🔄   |
-| Become industry-ready                  |   🚀   |
-
-</div>
-
----
-
-# `13 // RESUME`
-
-<div align="center">
-
-## 📄 Professional Profile
-
-My resume contains my education, technical skills, projects and development journey.
-
-<br>
-
-<a href="./Rachith_Kumar_Resume.pdf">
-
-<img src="https://img.shields.io/badge/VIEW%20RESUME-06B6D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffffff"/>
-
-</a>
-
-<br><br>
+### Analytics
 
 ```text
-RESUME STATUS : AVAILABLE
-FORMAT        : PDF
+docs/screenshots/analytics.png
 ```
 
-</div>
-
----
-
-# `14 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/rachi2006">
-<img src="https://img.shields.io/badge/GITHUB-RAchi2006-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rachirachith8@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-# `15 // FINAL TRANSMISSION`
-
-<div align="center">
+### Developer Insight
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║              DEVELOPER SYSTEM ONLINE                ║
-║                                                      ║
-║        LEARN  →  BUILD  →  TEST  →  SHIP            ║
-║                                                      ║
-║        AI  ×  BACKEND  ×  DATA  ×  SOFTWARE         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+docs/screenshots/developer-insight.png
 ```
 
-<br>
+### Growth Roadmap
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=BUILDING+INTELLIGENT+SYSTEMS...;ONE+PROJECT+AT+A+TIME.;THE+SYSTEM+IS+JUST+GETTING+STARTED."/>
+```text
+docs/screenshots/roadmap.png
+```
 
-<br><br>
+### AI Coach
 
-<img src="https://komarev.com/ghpvc/?username=rachi2006&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
+```text
+docs/screenshots/ai-coach.png
+```
 
-<br><br>
+Example Markdown:
 
-**`"Don't just learn technology. Build with it."`**
+```markdown
+## Dashboard
 
-</div>
+![DevMind Dashboard](docs/screenshots/dashboard.png)
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:2563eb,75:0f172a,100:020617&height=150&section=footer"/>
+---
+
+# Security Considerations
+
+DevMind is designed with basic application security practices in mind.
+
+* Passwords are hashed before storage.
+* API credentials are stored through environment variables.
+* Sensitive configuration is excluded through `.gitignore`.
+* External API credentials should never be hard-coded.
+* MongoDB credentials should not be committed to the repository.
+
+For production deployment, additional security hardening should be applied.
+
+---
+
+# Current Limitations
+
+DevMind is an evolving project.
+
+Current limitations may include:
+
+* GitHub data depends on the availability and limits of the GitHub API.
+* AI responses depend on the configured AI provider.
+* Analytics are limited to the data currently collected by the application.
+* Developer insights are dependent on the quality and quantity of available activity data.
+* The current system is primarily designed as a project/prototype and requires additional hardening for large-scale production use.
+
+Being explicit about these limitations is intentional: the project is continuously being developed and improved.
+
+---
+
+# Future Roadmap
+
+### Developer Intelligence
+
+* [ ] More advanced developer activity metrics
+* [ ] Long-term development trends
+* [ ] Technology progression tracking
+* [ ] Personalized skill-gap analysis
+
+### AI Coach
+
+* [ ] Context-aware conversations
+* [ ] Persistent coaching context
+* [ ] More personalized recommendations
+* [ ] Learning-plan generation
+* [ ] Project feedback
+
+### GitHub Integration
+
+* [ ] Pull request analytics
+* [ ] Issue analytics
+* [ ] Contribution analysis
+* [ ] Repository health metrics
+* [ ] Commit-pattern analysis
+
+### Platform
+
+* [ ] Improved authentication
+* [ ] Production deployment
+* [ ] Automated testing
+* [ ] API documentation
+* [ ] Performance optimization
+* [ ] Improved observability
+
+---
+
+# What I Learned Building DevMind
+
+DevMind has been an opportunity to work across multiple areas of software development rather than focusing on a single technology.
+
+Through the project, I worked with:
+
+* Flask application architecture
+* MongoDB integration
+* Authentication
+* API integration
+* GitHub data
+* Service-based application structure
+* Frontend dashboard development
+* Data processing
+* AI API integration
+* Environment-based configuration
+* Debugging and iterative development
+
+The project also helped me understand an important engineering principle:
+
+> **A useful application is more than a collection of technologies. The architecture, data flow, user experience, and reliability all matter.**
+
+---
+
+# Project Status
+
+**Status:** Active Development
+
+DevMind is continuously being improved as I learn more about backend engineering, APIs, data analysis, AI integration, and software architecture.
+
+---
+
+# Author
+
+**Rachith Kumar**
+
+B.Tech CSE — Artificial Intelligence and Data Science
+Parul University
+
+* GitHub: [@rachi2006](https://github.com/rachi2006)
+* Email: [rachirachith8@gmail.com](mailto:rachirachith8@gmail.com)
+
+---
+
+<p align="center">
+  <b>DevMind — Turning development activity into actionable developer intelligence.</b>
+</p>
